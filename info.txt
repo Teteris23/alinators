@@ -1,0 +1,9 @@
+Lapas veido kā stāstu - pirmajā lapā sāc ar ievadu, otrajā - turpini tēmu.
+Abas lapas savieno ar hipersaitēm tā, lai no pirmās lapas ir iespēja pārslēgties uz otro lapu un tāpat atgriezties pirmajā lapā.
+Izmanto attēlus (neaizmirsti par autortiesībām!).
+Izveido noformējumus abām lapām.
+Saturā iekļauj dažādus elementus - piemēram - tekstu, tabulas,
+ uzskaitījumu un tml. 
+Ja izmanto cita autora darbus, pievieno atsauces!
+Savā risinājumā iekļauj dažādus HTML elementus un CSS noformējumus 
+– virsrakstu, citātu, paragrāfu, saiti, sarakstu, izcēlumu, pasvītrojumu u. c.
